@@ -3,3 +3,5 @@ Using RaspberryPi for Object Detection using TinyML models like Tensorflow Lite,
 
 The first_yolov5.ipynb jupyter notebook file is used to train yolov5 tensorflow and pytorch models. Then those tensorflow models are converted  to tflite files with Yolov5 (1).ipynb jupyter notebook file. All models are tested in raspberry pi400 and the required results are shown in yolov5-model-performance-data.xlsx
 
+The data was prepared from untitled.ipynb jubyter notebook file. The code help to combine different dataset and combine them to make a large dataset and edit classes as required.
+
